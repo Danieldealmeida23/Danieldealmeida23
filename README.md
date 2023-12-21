@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ele/Dele
 -->
 ![Daniel de Almeida](https://github-readme-stats.vercel.app/api?username=Danieldealmeida23&show_icons=true&theme=tokyonight#gh-dark-mode-only)
-![Daniel de Almeida](https://github-readme-stats.vercel.app/api?username=Danieldealmeida23&show_icons=true&theme=default#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danieldealmeida23&size_weight=0.5&count_weight=0.5)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
