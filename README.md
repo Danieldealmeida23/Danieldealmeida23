@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando Engenharia de Software
-- 😄 Pronouns: Ele/Dele
+- 😍 Apaixonado por tecnologia 
 
 ##
 
