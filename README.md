@@ -6,7 +6,6 @@
 
 ##
 
-![Daniel de Almeida](https://github-readme-stats.vercel.app/api?username=Danieldealmeida23&show_icons=true&theme=tokyonight#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danieldealmeida23&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&hide=TeX)
 
 ##
